@@ -224,3 +224,4 @@ logs
 
 **.http
 go-rest-api-pet.http
+build
